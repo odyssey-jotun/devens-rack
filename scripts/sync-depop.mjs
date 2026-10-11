@@ -100,8 +100,11 @@ function titleOf(p) {
 }
 
 function shape(p) {
-  const price = p.pricing?.current_price?.total_price;
-  const original = p.pricing?.original_price?.total_price;
+  // Use the listed price. total_price can include Depop's buyer fee and tax,
+  // which depend on where the request comes from.
+  const listed = (x) => x?.price_breakdown?.price?.amount ?? x?.total_price;
+  const price = listed(p.pricing?.current_price);
+  const original = listed(p.pricing?.original_price);
   return {
     id: p.id,
     url: `https://www.depop.com/products/${p.slug}/`,

@@ -8,6 +8,9 @@ const GROUPS = [
   ['Shirts', (l) => /polo|shirt|blouse|top/i.test(l.category)],
   ['Bottoms', (l) => /bottom|trouser|short|skirt|pant/i.test(l.category)],
 ];
+// Listings to keep off the site even while they're live on Depop.
+const HIDDEN = new Set([879771374]); // 2Pac graphic tee
+
 const groupOf = (l) => (GROUPS.find(([, test]) => test(l)) || ['More'])[0];
 
 const money = (n) => (n == null ? '' : `$${Number.isInteger(n) ? n : n.toFixed(2)}`);
@@ -31,7 +34,7 @@ function card(l) {
   return `
     <a class="card" href="${esc(l.url)}" rel="noopener" aria-label="${esc(l.title)}, ${money(l.price)}, view on Depop">
       <div class="card-photo">
-        ${sale ? '<span class="tag-sale">On sale</span>' : ''}
+        <span class="tag">${sale ? `<s>${money(l.originalPrice)}</s>` : ''}<b>${money(l.price)}</b></span>
         <img src="${esc(main)}" alt="${esc(l.title)}" loading="lazy" decoding="async" width="600" height="800">
         ${alt ? `<img class="alt" src="${esc(alt)}" alt="" loading="lazy" decoding="async" width="600" height="800">` : ''}
       </div>
@@ -43,7 +46,6 @@ function card(l) {
           ${l.condition ? `<span class="pill">${esc(l.condition)}</span>` : ''}
         </div>
         <div class="card-foot">
-          <span class="price">${money(l.price)}${sale ? `<s>${money(l.originalPrice)}</s>` : ''}</span>
           <span class="buy">Buy on Depop</span>
         </div>
       </div>
@@ -118,7 +120,7 @@ function syncedLabel(iso) {
 fetch('data/listings.json', { cache: 'no-cache' })
   .then((r) => r.json())
   .then((data) => {
-    listings = data.listings.map((l) => ({ ...l, group: groupOf(l) }));
+    listings = data.listings.filter((l) => !HIDDEN.has(l.id)).map((l) => ({ ...l, group: groupOf(l) }));
     renderChips();
     render();
     renderSold(data.sold || []);
