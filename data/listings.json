@@ -1,7 +1,7 @@
 {
   "shop": "de2en_927",
   "shopUrl": "https://www.depop.com/de2en_927/",
-  "syncedAt": "2026-10-11T02:32:09.846Z",
+  "syncedAt": "2026-10-11T10:02:07.405Z",
   "soldCount": 23,
   "listings": [
     {
@@ -13,8 +13,8 @@
       "group": "bottoms",
       "size": "33\"",
       "condition": "Like new",
-      "price": 48,
-      "originalPrice": 56,
+      "price": 51.1,
+      "originalPrice": 59.5,
       "images": [
         "https://media-photos.depop.com/r1/468296152/4644178747_fd98437742dd4d36be9cfa97f96d1439/P0.jpg",
         "https://media-photos.depop.com/r1/468296152/4644178456_8b85117614a9460f8a6b34d3b24a4d38/P0.jpg",
@@ -32,7 +32,7 @@
       "group": "tops",
       "size": "S",
       "condition": "Like new",
-      "price": 11,
+      "price": 12.25,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/b1/468296152/4516623368_bcc6cc5b45194012b429466c9507af5d/P0.jpg",
@@ -51,8 +51,8 @@
       "group": "bottoms",
       "size": "29\"",
       "condition": "Good",
-      "price": 18,
-      "originalPrice": 30,
+      "price": 19.6,
+      "originalPrice": 32.2,
       "images": [
         "https://media-photos.depop.com/r1/468296152/4556899208_d4cdc504599d4e7b96bb496bcd49e5bc/P0.jpg",
         "https://media-photos.depop.com/r1/468296152/4556900207_e5c8df547e564ec680373a5f0a103bb6/P0.jpg",
@@ -70,7 +70,7 @@
       "group": "tops",
       "size": "S",
       "condition": "Good",
-      "price": 10,
+      "price": 11.2,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/r1/468296152/4528732416_44c0129464d241559529d34f35f7175e/P0.jpg",
@@ -89,7 +89,7 @@
       "group": "tops",
       "size": "S",
       "condition": "Excellent",
-      "price": 20,
+      "price": 21.7,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/r1/468296152/4528564555_ff0abe6cf67245efb50448de91f1ecaa/P0.jpg",
@@ -108,7 +108,7 @@
       "group": "bottoms",
       "size": "14",
       "condition": "Like new",
-      "price": 14,
+      "price": 15.4,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/r1/468296152/4516743188_2700578360334984a4afedfce30b36a6/P0.jpg",
@@ -127,7 +127,7 @@
       "group": "tops",
       "size": "XL",
       "condition": "Like new",
-      "price": 8,
+      "price": 9.1,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/b1/468296152/4516637859_8569d791818e4f69a7e67f7f6ca242b0/P0.jpg",
@@ -146,7 +146,7 @@
       "group": "tops",
       "size": "L",
       "condition": "Like new",
-      "price": 12,
+      "price": 13.3,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/b1/468296152/4516602628_5ba03416abc641b6a91c494dae87d64f/P0.jpg",
@@ -165,7 +165,7 @@
       "group": "tops",
       "size": "L",
       "condition": "Like new",
-      "price": 16,
+      "price": 17.5,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/b1/468296152/4459985088_9469e6b61e4f414fbe79551142704df1/P0.jpg",
@@ -184,7 +184,7 @@
       "group": "tops",
       "size": "S",
       "condition": "Excellent",
-      "price": 15,
+      "price": 16.45,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/b1/468296152/4395851719_5173a529f4334310be1d5ab824d7868f/P0.jpg",
@@ -203,8 +203,8 @@
       "group": "bottoms",
       "size": "28\"",
       "condition": "Excellent",
-      "price": 22,
-      "originalPrice": 32,
+      "price": 23.8,
+      "originalPrice": 34.3,
       "images": [
         "https://media-photos.depop.com/b1/468296152/4396025206_8729751b8af64d968290999f86779529/P0.jpg",
         "https://media-photos.depop.com/b1/468296152/4396026274_390a5529f6d94be6b7fe447302cc7fe2/P0.jpg",
@@ -222,7 +222,7 @@
       "group": "tops",
       "size": "XL",
       "condition": "Like new",
-      "price": 18,
+      "price": 19.6,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/b1/468296152/4459997530_7b2e7a27089f4551a5c684348b1342b4/P0.jpg",
@@ -241,7 +241,7 @@
       "group": "tops",
       "size": "XS",
       "condition": "Excellent",
-      "price": 10,
+      "price": 11.2,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/b1/468296152/4396089489_004174f4eecf44b6956b86d765f798b5/P0.jpg",
@@ -260,7 +260,7 @@
       "group": "bottoms",
       "size": "9",
       "condition": "Like new",
-      "price": 12,
+      "price": 13.3,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/b1/468296152/4460015001_514cfbe9d440421da20ea174e5594743/P0.jpg",
@@ -279,7 +279,7 @@
       "group": "bottoms",
       "size": "28\"",
       "condition": "Excellent",
-      "price": 14,
+      "price": 15.4,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/b1/468296152/4460046481_a67d537e089d4ba29c0ed079be414040/P0.jpg",
@@ -298,7 +298,7 @@
       "group": "bottoms",
       "size": "XS",
       "condition": "Like new",
-      "price": 8,
+      "price": 9.1,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/r1/468296152/4516669988_71ccb4fe4f29418f9ae3f5f27d6a59b6/P0.jpg",
@@ -316,7 +316,7 @@
       "group": "tops",
       "size": "S",
       "condition": "Excellent",
-      "price": 8,
+      "price": 9.1,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/b1/468296152/4440427156_bad96a708219411d92d45650f4f57ed6/P0.jpg",
@@ -335,7 +335,7 @@
       "group": "tops",
       "size": "S",
       "condition": "Brand new",
-      "price": 8,
+      "price": 9.1,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/b1/468296152/4399396153_65f5a801d0004796beeea8738ccbd684/P0.jpg",
@@ -353,7 +353,7 @@
       "group": "tops",
       "size": "XL",
       "condition": "Like new",
-      "price": 6,
+      "price": 7,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/b1/468296152/4459975526_d236c569fbf04374a9dac7b4b91c38a6/P0.jpg",
@@ -372,7 +372,7 @@
       "group": "tops",
       "size": "XS",
       "condition": "Like new",
-      "price": 12,
+      "price": 13.3,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/b1/468296152/4396109984_4279706066c14612918a2b080288d319/P0.jpg",
@@ -391,7 +391,7 @@
       "group": "tops",
       "size": "S",
       "condition": "Excellent",
-      "price": 7,
+      "price": 8.05,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/b1/468296152/4440415211_fe16295d0bb44379a61aecd37f289cd9/P0.jpg",
@@ -409,7 +409,7 @@
       "group": "bottoms",
       "size": "30\"",
       "condition": "Excellent",
-      "price": 8,
+      "price": 9.1,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/b1/468296152/4396063562_48a946ea50d241949f2cb3583962ecbf/P0.jpg",
@@ -428,7 +428,7 @@
       "group": "bottoms",
       "size": "S",
       "condition": "Excellent",
-      "price": 5,
+      "price": 5.95,
       "originalPrice": null,
       "images": [
         "https://media-photos.depop.com/r1/468296152/4440398109_7c07d671df5f4248835e73f3e332bee3/P0.jpg",
@@ -447,7 +447,7 @@
       "images": [
         "https://media-photos.depop.com/r1/468296152/4516695850_c95e4afdfd2c40a2aae9c7670f79089a/P0.jpg"
       ],
-      "price": 8
+      "price": 9.1
     },
     {
       "url": "https://www.depop.com/products/de2env927-diesel-industries-larkee-jean-vintage-2a2a/",
@@ -456,7 +456,7 @@
       "images": [
         "https://media-photos.depop.com/r1/468296152/4644190246_d50a998ddc52462facea76014149f1ec/P0.jpg"
       ],
-      "price": 46
+      "price": 49
     },
     {
       "url": "https://www.depop.com/products/de2enh927-skin-industries-y2k-gothic-double-8c64/",
@@ -465,7 +465,7 @@
       "images": [
         "https://media-photos.depop.com/r1/468296152/4644203199_ce820f96d8f448d79615cb2fb1478d68/P0.jpg"
       ],
-      "price": 44
+      "price": 46.9
     },
     {
       "url": "https://www.depop.com/products/devenapateq09-sun-stone-embroidered-floral-cdf5/",
@@ -474,7 +474,7 @@
       "images": [
         "https://media-photos.depop.com/b1/468296152/4395894263_7f1106612e58491f96e108a3b0b6672d/P0.jpg"
       ],
-      "price": 24
+      "price": 25.9
     },
     {
       "url": "https://www.depop.com/products/devenapqtel09-wool-mens-blue-sweater-vest-b5fb/",
@@ -483,7 +483,7 @@
       "images": [
         "https://media-photos.depop.com/r1/468296152/4516476833_98617f1104bc44c9ad41492517e54e8f/P0.jpg"
       ],
-      "price": 18
+      "price": 19.6
     },
     {
       "url": "https://www.depop.com/products/devenapatel09-cream-linen-blend-old-navy-924f/",
@@ -492,7 +492,7 @@
       "images": [
         "https://media-photos.depop.com/b1/468296152/4449033083_7494e8d1f9634032bebdc6a6f24c8dbe/P0.jpg"
       ],
-      "price": 8
+      "price": 9.1
     },
     {
       "url": "https://www.depop.com/products/de2en_923-vintage-black-wash-bootcut-londonjean-a643/",
@@ -501,7 +501,7 @@
       "images": [
         "https://media-photos.depop.com/r1/468296152/4644235319_21e22d682e4a4b5fac8ad5848773ae63/P0.jpg"
       ],
-      "price": 14
+      "price": 15.4
     },
     {
       "url": "https://www.depop.com/products/devenapakel09-brown-baggy-cuffed-aeropostale-sweatpants-d938/",
@@ -510,7 +510,7 @@
       "images": [
         "https://media-photos.depop.com/r1/468296152/4516471574_8cd9bb95eb914c4b9b012edf7c68bc0a/P0.jpg"
       ],
-      "price": 16
+      "price": 17.5
     },
     {
       "url": "https://www.depop.com/products/d3venapatel09-streetwear-porsche-hiddn-archive-graphic-ae23/",
@@ -519,7 +519,7 @@
       "images": [
         "https://media-photos.depop.com/r1/468296152/4528855938_7637cad1e5fc433bae60e9bc540f993c/P0.jpg"
       ],
-      "price": 19
+      "price": 20.65
     },
     {
       "url": "https://www.depop.com/products/devenapate809-vintage-y2k-levis-527-bootcut-a49e/",
@@ -528,7 +528,7 @@
       "images": [
         "https://media-photos.depop.com/r1/468296152/4516497044_93d681d7d25d452ab03bae53a53f47e9/P0.jpg"
       ],
-      "price": 19
+      "price": 20.65
     },
     {
       "url": "https://www.depop.com/products/devenapatelr9-baggy-double-waisted-streetwear-sweatpants-from-a0b4/",
@@ -537,7 +537,7 @@
       "images": [
         "https://media-photos.depop.com/r1/468296152/4516362531_45018b42ed1f48a19bc7777a32f99e9f/P0.jpg"
       ],
-      "price": 60
+      "price": 63.7
     },
     {
       "url": "https://www.depop.com/products/devenazatel09-iconic-navy-juicy-couture-velour-4130/",
@@ -546,7 +546,7 @@
       "images": [
         "https://media-photos.depop.com/r1/468296152/4459945216_d80e840fa92e45ba838514b529bb1525/P0.jpg"
       ],
-      "price": 18
+      "price": 19.6
     },
     {
       "url": "https://www.depop.com/products/devenapatel09-waffle-weave-crewneck-long-sleeve-3e95/",
@@ -555,7 +555,7 @@
       "images": [
         "https://media-photos.depop.com/r1/468296152/4528719073_b696b9f03cbb42b084ab82b2bb44deb6/P0.jpg"
       ],
-      "price": 10
+      "price": 11.2
     },
     {
       "url": "https://www.depop.com/products/devesapatel09-red-magellan-outdoors-realtree-fishing-79f3/",
@@ -564,7 +564,7 @@
       "images": [
         "https://media-photos.depop.com/b1/468296152/4449048695_af51d796f94c43dfb672625dea184d15/P0.jpg"
       ],
-      "price": 12
+      "price": 13.3
     },
     {
       "url": "https://www.depop.com/products/devlnapatel09-woven-cotton-full-button-down-mens-9f0e/",
@@ -573,7 +573,7 @@
       "images": [
         "https://media-photos.depop.com/b1/468296152/4395770777_eedcdfead4a148cdab2a11a63049d36c/P0.jpg"
       ],
-      "price": 12.5
+      "price": 13.82
     },
     {
       "url": "https://www.depop.com/products/dtvenapatel09-banana-republic-light-blue-fitted-84d2/",
@@ -582,7 +582,7 @@
       "images": [
         "https://media-photos.depop.com/b1/468296152/4449217290_537e601360ea4ee9933ce087a6b5e86f/P0.jpg"
       ],
-      "price": 5
+      "price": 5.95
     },
     {
       "url": "https://www.depop.com/products/devencpatel09-banana-republic-gray-and-blue-ead0/",
@@ -591,7 +591,7 @@
       "images": [
         "https://media-photos.depop.com/b1/468296152/4449210755_78143dfe9de2435ca8173f6be67a0396/P0.jpg"
       ],
-      "price": 5
+      "price": 5.95
     },
     {
       "url": "https://www.depop.com/products/devenapatel99-cream-waffle-knit-henley-eddie-bauer-c144/",
@@ -600,7 +600,7 @@
       "images": [
         "https://media-photos.depop.com/b1/468296152/4440437639_ee1adac8341a41919d0a92c94a484835/P0.jpg"
       ],
-      "price": 32
+      "price": 34.3
     },
     {
       "url": "https://www.depop.com/products/devena1atel09-gray-stylish-slim-fit-hm-dee5/",
@@ -609,7 +609,7 @@
       "images": [
         "https://media-photos.depop.com/b1/468296152/4395989161_dd6eb223fc74445e8417b414fd1247da/P0.jpg"
       ],
-      "price": 9
+      "price": 10.15
     },
     {
       "url": "https://www.depop.com/products/devenapate509-vintage-fashionable-wrangler-jean-shirt-3a90/",
@@ -618,7 +618,7 @@
       "images": [
         "https://media-photos.depop.com/b1/468296152/4395933939_015a31f1d6bc43d889efebc2badbc79f/P0.jpg"
       ],
-      "price": 24
+      "price": 25.9
     },
     {
       "url": "https://www.depop.com/products/devenapateli9-comfy-fleece-hm-sweat-shorts-927b/",
@@ -627,7 +627,7 @@
       "images": [
         "https://media-photos.depop.com/b1/468296152/4395953359_a6eb8db2934249adac9af0ee0f0eb314/P0.jpg"
       ],
-      "price": 4
+      "price": 4.9
     },
     {
       "url": "https://www.depop.com/products/devenapatbl09-classy-mens-banana-republic-woven-ec93/",
@@ -636,7 +636,7 @@
       "images": [
         "https://media-photos.depop.com/b1/468296152/4395873959_a13bb4e2cdc849cb8148b96b6adb18a4/P0.jpg"
       ],
-      "price": 10
+      "price": 11.2
     },
     {
       "url": "https://www.depop.com/products/devenapat0l09-us-polo-assn-classy-womens-0edd/",
@@ -645,7 +645,7 @@
       "images": [
         "https://media-photos.depop.com/b1/468296152/4395289349_0cdac6d2d3af4a0e8108b181e9a8dd4d/P0.jpg"
       ],
-      "price": 16
+      "price": 17.5
     }
   ]
 }
