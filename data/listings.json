@@ -1,28 +1,9 @@
 {
   "shop": "de2en_927",
   "shopUrl": "https://www.depop.com/de2en_927/",
-  "syncedAt": "2026-10-11T20:26:06.035Z",
-  "soldCount": 23,
+  "syncedAt": "2026-10-11T21:59:27.393Z",
+  "soldCount": 24,
   "listings": [
-    {
-      "id": 902079576,
-      "url": "https://www.depop.com/products/de2wn_927-diesel-industries-zatiny-bootcut-vintage-8a40/",
-      "title": "Diesel Industries Zatiny Bootcut Vintage Wash",
-      "brand": "Diesel",
-      "category": "Jeans",
-      "group": "bottoms",
-      "size": "33\"",
-      "condition": "Like new",
-      "price": 48,
-      "originalPrice": 56,
-      "images": [
-        "https://media-photos.depop.com/r1/468296152/4644178747_fd98437742dd4d36be9cfa97f96d1439/P0.jpg",
-        "https://media-photos.depop.com/r1/468296152/4644178456_8b85117614a9460f8a6b34d3b24a4d38/P0.jpg",
-        "https://media-photos.depop.com/r1/468296152/4644178748_f2eb7d34a807492abc9a73ae090413d1/P0.jpg",
-        "https://media-photos.depop.com/r1/468296152/4644179916_39100b51d94a453bb960768337bc2b8d/P0.jpg"
-      ],
-      "listedAt": "2026-09-08T14:39:22.327105Z"
-    },
     {
       "id": 879771374,
       "url": "https://www.depop.com/products/devenapbtel09-2pac-graphic-tee-iconic-hip-a849/",
@@ -440,6 +421,15 @@
     }
   ],
   "sold": [
+    {
+      "url": "https://www.depop.com/products/de2wn_927-diesel-industries-zatiny-bootcut-vintage-8a40/",
+      "title": "Diesel Industries Zatiny Bootcut Vintage Wash",
+      "brand": "Diesel",
+      "images": [
+        "https://media-photos.depop.com/r1/468296152/4644178747_fd98437742dd4d36be9cfa97f96d1439/P0.jpg"
+      ],
+      "price": 48
+    },
     {
       "url": "https://www.depop.com/products/devenapate909-exclusive-bundle-champion-fleece-joggers-e398/",
       "title": "Exclusive Bundle Champion Fleece Joggers (Cream & Blue)",
