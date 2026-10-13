@@ -12,6 +12,15 @@ import { writeFileSync, readFileSync, existsSync } from 'node:fs';
 const SHOP = 'de2en_927';
 const OUT = new URL('../data/listings.json', import.meta.url);
 
+// Listings kept off the site even while they are live on Depop. Add the
+// product id (from data/listings.json) to hide a specific piece; the word list
+// catches new ones with suggestive graphics before anyone sees them.
+const HIDDEN_IDS = new Set([
+  879769585, // biker pinup graphic tee
+]);
+const HIDDEN_WORDS = /\b(pin-?ups?|nude|naked|topless|sexy|playboy|nsfw)\b/i;
+const allowed = (p) => !HIDDEN_IDS.has(p.id) && !HIDDEN_WORDS.test(`${p.slug} ${p.description}`);
+
 const CONDITION = {
   brand_new: 'Brand new',
   used_like_new: 'Like new',
@@ -128,8 +137,8 @@ const data = {
   shopUrl: `https://www.depop.com/${SHOP}/`,
   syncedAt: new Date().toISOString(),
   soldCount: shop.soldCount ?? (sold.length || prev?.soldCount || 0),
-  listings: active.filter((p) => p.status === 'STATUS_ONSALE').map(shape),
-  sold: !sold.length && prev?.sold?.length ? prev.sold : sold.map(shape).map(({ url, title, brand, images, price }) => ({ url, title, brand, images: images.slice(0, 1), price })),
+  listings: active.filter((p) => p.status === 'STATUS_ONSALE' && allowed(p)).map(shape),
+  sold: !sold.length && prev?.sold?.length ? prev.sold : sold.filter(allowed).map(shape).map(({ url, title, brand, images, price }) => ({ url, title, brand, images: images.slice(0, 1), price })),
 };
 
 // Leave the file alone if nothing changed apart from the timestamp, so the
