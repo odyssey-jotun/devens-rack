@@ -1,8 +1,8 @@
 {
   "shop": "de2en_927",
   "shopUrl": "https://www.depop.com/de2en_927/",
-  "syncedAt": "2026-10-11T21:59:27.393Z",
-  "soldCount": 24,
+  "syncedAt": "2026-10-14T23:56:07.059Z",
+  "soldCount": 25,
   "listings": [
     {
       "id": 879771374,
@@ -22,25 +22,6 @@
         "https://media-photos.depop.com/b1/468296152/4516623090_697a8ec9dda5429d92364eec4e2b957b/P0.jpg"
       ],
       "listedAt": "2026-08-23T15:16:28.900777Z"
-    },
-    {
-      "id": 886998340,
-      "url": "https://www.depop.com/products/devebapatel09-bootcut-vintage-wash-y2k-jeans-3c4c/",
-      "title": "Bootcut Vintage wash Y2K Jeans with embroidered pockets",
-      "brand": "American Vintage",
-      "category": "Jeans",
-      "group": "bottoms",
-      "size": "29\"",
-      "condition": "Good",
-      "price": 18,
-      "originalPrice": 30,
-      "images": [
-        "https://media-photos.depop.com/r1/468296152/4556899208_d4cdc504599d4e7b96bb496bcd49e5bc/P0.jpg",
-        "https://media-photos.depop.com/r1/468296152/4556900207_e5c8df547e564ec680373a5f0a103bb6/P0.jpg",
-        "https://media-photos.depop.com/r1/468296152/4556899564_1001f26c0522437cbb77ba78067f7be6/P0.jpg",
-        "https://media-photos.depop.com/r1/468296152/4556899944_e89dadc53d754893996547928f932b6c/P0.jpg"
-      ],
-      "listedAt": "2026-08-28T12:58:55.696206Z"
     },
     {
       "id": 882024291,
@@ -402,6 +383,15 @@
     }
   ],
   "sold": [
+    {
+      "url": "https://www.depop.com/products/devebapatel09-bootcut-vintage-wash-y2k-jeans-3c4c/",
+      "title": "Bootcut Vintage wash Y2K Jeans with embroidered pockets",
+      "brand": "American Vintage",
+      "images": [
+        "https://media-photos.depop.com/r1/468296152/4556899208_d4cdc504599d4e7b96bb496bcd49e5bc/P0.jpg"
+      ],
+      "price": 18
+    },
     {
       "url": "https://www.depop.com/products/de2wn_927-diesel-industries-zatiny-bootcut-vintage-8a40/",
       "title": "Diesel Industries Zatiny Bootcut Vintage Wash",
