@@ -1,7 +1,7 @@
 {
   "shop": "de2en_927",
   "shopUrl": "https://www.depop.com/de2en_927/",
-  "syncedAt": "2026-10-14T23:56:07.059Z",
+  "syncedAt": "2026-10-20T19:18:25.149Z",
   "soldCount": 25,
   "listings": [
     {
@@ -598,15 +598,6 @@
         "https://media-photos.depop.com/b1/468296152/4395873959_a13bb4e2cdc849cb8148b96b6adb18a4/P0.jpg"
       ],
       "price": 10
-    },
-    {
-      "url": "https://www.depop.com/products/devenapat0l09-us-polo-assn-classy-womens-0edd/",
-      "title": "U.S. Polo Assn. Classy Women’s Pink & Blue Fitted Polo Shirt",
-      "brand": "U.S. Polo Assn.",
-      "images": [
-        "https://media-photos.depop.com/b1/468296152/4395289349_0cdac6d2d3af4a0e8108b181e9a8dd4d/P0.jpg"
-      ],
-      "price": 16
     }
   ]
 }
