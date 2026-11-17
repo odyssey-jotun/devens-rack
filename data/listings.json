@@ -1,8 +1,8 @@
 {
   "shop": "de2en_927",
   "shopUrl": "https://www.depop.com/de2en_927/",
-  "syncedAt": "2026-10-30T22:22:18.832Z",
-  "soldCount": 25,
+  "syncedAt": "2026-11-17T03:55:30.593Z",
+  "soldCount": 26,
   "listings": [
     {
       "id": 879771374,
@@ -155,25 +155,6 @@
         "https://media-photos.depop.com/b1/468296152/4396024138_8bafde091e424ac8ad68613f3cb6463b/P0.jpg"
       ],
       "listedAt": "2026-08-08T20:02:11.820871Z"
-    },
-    {
-      "id": 869642175,
-      "url": "https://www.depop.com/products/devenapatel0f-original-twilight-tee-with-graphic-9c6f/",
-      "title": "Original Twilight tee with graphic icon",
-      "brand": "Twilight",
-      "category": "T-shirts",
-      "group": "tops",
-      "size": "XL",
-      "condition": "Like new",
-      "price": 18,
-      "originalPrice": null,
-      "images": [
-        "https://media-photos.depop.com/b1/468296152/4459997530_7b2e7a27089f4551a5c684348b1342b4/P0.jpg",
-        "https://media-photos.depop.com/b1/468296152/4459996176_96d871348d994a99a60422a981c551aa/P0.jpg",
-        "https://media-photos.depop.com/b1/468296152/4459996554_36f8b0de3bbd4b19b1f387b3c7320990/P0.jpg",
-        "https://media-photos.depop.com/b1/468296152/4459997329_e24929a9183e47acb978beb9f9959504/P0.jpg"
-      ],
-      "listedAt": "2026-08-16T16:14:02.853198Z"
     },
     {
       "id": 857965265,
@@ -383,6 +364,15 @@
     }
   ],
   "sold": [
+    {
+      "url": "https://www.depop.com/products/devenapatel0f-original-twilight-tee-with-graphic-9c6f/",
+      "title": "Original Twilight tee with graphic icon",
+      "brand": "Twilight",
+      "images": [
+        "https://media-photos.depop.com/b1/468296152/4459997530_7b2e7a27089f4551a5c684348b1342b4/P0.jpg"
+      ],
+      "price": 18
+    },
     {
       "url": "https://www.depop.com/products/devebapatel09-bootcut-vintage-wash-y2k-jeans-3c4c/",
       "title": "Bootcut Vintage wash Y2K Jeans with embroidered pockets",
