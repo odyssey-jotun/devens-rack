@@ -1,7 +1,7 @@
 {
   "shop": "de2en_927",
   "shopUrl": "https://www.depop.com/de2en_927/",
-  "syncedAt": "2026-11-19T20:40:23.255Z",
+  "syncedAt": "2026-11-23T01:45:24.157Z",
   "soldCount": 26,
   "listings": [
     {
@@ -579,24 +579,6 @@
         "https://media-photos.depop.com/b1/468296152/4395953359_a6eb8db2934249adac9af0ee0f0eb314/P0.jpg"
       ],
       "price": 4
-    },
-    {
-      "url": "https://www.depop.com/products/devenapatbl09-classy-mens-banana-republic-woven-ec93/",
-      "title": "Classy Men’s Banana Republic Woven Cotton Long Sleeve",
-      "brand": "Banana Republic",
-      "images": [
-        "https://media-photos.depop.com/b1/468296152/4395873959_a13bb4e2cdc849cb8148b96b6adb18a4/P0.jpg"
-      ],
-      "price": 10
-    },
-    {
-      "url": "https://www.depop.com/products/devenapat0l09-us-polo-assn-classy-womens-0edd/",
-      "title": "U.S. Polo Assn. Classy Women’s Pink & Blue Fitted Polo Shirt",
-      "brand": "U.S. Polo Assn.",
-      "images": [
-        "https://media-photos.depop.com/b1/468296152/4395289349_0cdac6d2d3af4a0e8108b181e9a8dd4d/P0.jpg"
-      ],
-      "price": 16
     }
   ]
 }
